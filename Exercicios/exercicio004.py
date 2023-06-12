@@ -1,3 +1,5 @@
+# Mostre os tipos de dados contidos no caractere que o usuário enviar
+
 texto = input('Digite algo: ')
 primitivo = type(texto)
 espaco = texto.isspace()
